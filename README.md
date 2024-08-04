@@ -1,2 +1,2 @@
-## Hi There, I'm ![[Miguel]www.github.com/migpovrap]
+## Hi There, I'm [Miguel](www.github.com/migpovrap)!
 
