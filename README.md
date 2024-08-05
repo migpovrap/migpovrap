@@ -21,3 +21,4 @@
     -   Phyton
     -   Learning MarkDown
 
+[![Miguel Raposo's GitHub stats](https://github-readme-status-migpovrap.vercel.app/api?username=migpovrap)](https://github.com/migpovrap/github-readme-stats)
