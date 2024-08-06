@@ -21,4 +21,5 @@
     -   Phyton
     -   Learning MarkDown
 
-[![Miguel Raposo's GitHub stats](https://github-readme-status-migpovrap.vercel.app/api?username=migpovrap)](https://github.com/migpovrap/github-readme-stats)
+[![Miguel Raposo's GitHub stats](https://github-readme-status-migpovrap.vercel.app/api?username=migpovrap&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/migpovrap/github-readme-stats#gh-dark-mode-only)
+[![Miguel Raposo's GitHub stats](https://github-readme-status-migpovrap.vercel.app/api?username=migpovrap&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/migpovrap/github-readme-stats#gh-light-mode-only)
