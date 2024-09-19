@@ -1,4 +1,4 @@
-## Hi, I'm [Miguel Raposo](www.github.com/migpovrap)!
+## Hi, I'm [Miguel Raposo](https://www.github.com/migpovrap)!
     A rower at Clube dos Galitos. 
     That is fascinated with tech in general.
     Playing with a HomeLab...
