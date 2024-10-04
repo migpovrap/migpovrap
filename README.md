@@ -2,7 +2,7 @@
     A rower at Clube dos Galitos. 
     That is fascinated with tech in general.
     Playing with a HomeLab...
-    A Nintendo fun
+    A Nintendo fan
 Currently studying Computer Science and Engeniering at [Instituto Superior Técnico](https://fenix.tecnico.ulisboa.pt/cursos/leic-t)!
 
 ---
