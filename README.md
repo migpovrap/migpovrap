@@ -7,7 +7,7 @@ Currently studying Computer Science and Engeniering at [Instituto Superior Técn
 
 ---
 #### Tools & Technologies
-* Somethings that I'm learning, and using in general and in my HomeLab
+* Some things that I'm learning, and using in general and in my HomeLab
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" /> <img src="macos.svg" width="48" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="50" height="50"/> <img src="unifi.svg" width="45" height="48"/> <img src="./proxmox-logo-stacked-color.svg" width="60" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/towergit/towergit-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />
