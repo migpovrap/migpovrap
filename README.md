@@ -20,5 +20,5 @@ Currently studying Computer Science and Engeniering at [Instituto Superior Técn
 
 ---
 
-[![Miguel Raposo's GitHub stats](https://github-readme-status-migpovrap.vercel.app/api?username=migpovrap&show&hide_border=true&show_icons=true&bg_color=0d1116&icon_color=40B883&text_color=FFFEFE&title_color=40B883#gh-dark-mode-only)](https://github.com/migpovrap/github-readme-stats#gh-dark-mode-only)
+[![Miguel Raposo's GitHub stats](https://github-readme-status-migpovrap.vercel.app/api?username=migpovrap&show&hide_border=false&show_icons=true&bg_color=0d1116&icon_color=40B883&text_color=FFFEFE&title_color=40B883#gh-dark-mode-only)](https://github.com/migpovrap/github-readme-stats#gh-dark-mode-only)
 [![Miguel Raposo's GitHub stats](https://github-readme-status-migpovrap.vercel.app/api?username=migpovrap&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/migpovrap/github-readme-stats#gh-light-mode-only)
