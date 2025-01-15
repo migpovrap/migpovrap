@@ -3,7 +3,7 @@
     That is fascinated with tech in general.
     Playing with a HomeLab...
     A Nintendo fan
-Currently studying Computer Science and Engeniering at [Instituto Superior Técnico](https://fenix.tecnico.ulisboa.pt/cursos/leic-t)!
+Currently studying Computer Science and Engineering at [Instituto Superior Técnico](https://fenix.tecnico.ulisboa.pt/cursos/leic-t)!
 
 ---
 #### Tools & Technologies
