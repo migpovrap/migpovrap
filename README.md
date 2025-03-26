@@ -9,10 +9,10 @@ Currently studying Computer Science and Engineering at [Instituto Superior Técn
 * Some things that I'm learning, and using in general and in my HomeLab
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" style="padding-right:500px;"/>
-  <img src="macos.svg" width="48" height="50" style="padding-right:500px;"/>
-  <img src="unifi.svg" width="45" height="48" style="padding-right:500px;"/>
-  <img src="./proxmox-logo-stacked-color.svg" width="60" height="50" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" style="padding-right:10px;"/>
+  <img src="macos.svg" width="48" height="50" style="padding-right:10px;"/>
+  <img src="unifi.svg" width="45" height="48" style="padding-right:5px;"/>
+  <img src="./proxmox-logo-stacked-color.svg" width="60" height="50" style="padding-right:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" style="padding-right:10px;"/>
 </p>
 
