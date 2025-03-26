@@ -1,9 +1,7 @@
 ## Hi, I'm [Miguel Raposo](https://www.github.com/migpovrap)!
 
-A rower at Clube dos Galitos. 
-
-That is fascinated with tech in general and playing with a HomeLab.
-
+A rower at Clube dos Galitos.  
+That is fascinated with tech in general and playing with a HomeLab.  
 Currently studying Computer Science and Engineering at [Instituto Superior Técnico](https://fenix.tecnico.ulisboa.pt/cursos/leic-t)!
 
 ---
