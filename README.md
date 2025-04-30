@@ -5,7 +5,7 @@ That is fascinated with tech in general and playing with a HomeLab.
 Currently studying Computer Science and Engineering at [Instituto Superior Técnico](https://fenix.tecnico.ulisboa.pt/cursos/leic-t)!
 
 ---
-#### Tools & Languages
+#### Tools
 * Some things that I'm learning, and using in general and in my HomeLab
 
 <p align="left">
